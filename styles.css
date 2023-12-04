@@ -52,6 +52,7 @@ a {
 .nav1__list {
     display: none;
     position: absolute;
+    z-index: 1;
     font-size: 20px;
     padding-top: 10px;
 }
